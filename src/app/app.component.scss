@@ -53,6 +53,13 @@ img{
                     object-fit: cover;
                     object-position: top;
                 }
+                .item_type_logo {
+                    width: 20px;
+                    height: 20px;
+                    position: absolute;
+                    right: 10px;
+                    top: 10px;
+                }
                 .cart_button{
                     margin: auto;
                     padding: 10px;
